@@ -1,26 +1,7 @@
 # NodeBots - CMBJS
 
-Introduction
 
-Today, physical-digital interactions are gradually moving from traditional barcode, QR code, and active-sensor systems to a totally new world of Internet of Things (IoT). On a parallel move, robotic technology is becoming a logical candidate of getting a smoother real life continuation into the digital world. When combined these movements, IoT does not have to depend on static dumb hardware anymore, but may walk, swim, even fly and finally be informed for decisions by real world object interactions.
-
-The goal of this workshop is to provide an introductory knowledge into robotics and related technologies. Workshop will begin with a keynote and few local robotic case studies demonstrating how digital relationships between robots, people and things can embrace and improve our lives. Latter part of the workshop will consist of a hands-on lab to create a simple robot that can take instructions for it’s behaviour.
-
-
-
-
-#####Date & Time: 
-
-
-* Friday 6th February 
-* From 8:30 to 6:30
-
-#####Venue: 
-
-
-* Trace Expert City - Maradana 
-
-
+![Alt text](poster.jpg)
 
 
 ###Agenda
