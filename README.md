@@ -23,7 +23,7 @@
 
 * Ardiuno Nano
 * Small Breadboard
-* CR Servo motors (360 Degrees rotation)
+* CR Servo motors (360 Degrees rotation) (DSC04-NFC)
 * Ultrasonic Sensor
 * AA 4 Batteries and Battery Holder
 * Mini USB Cable
