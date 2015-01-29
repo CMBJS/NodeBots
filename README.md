@@ -6,8 +6,9 @@
 
 ###Agenda
 
-| 8.00 - 9.00   | Registration and device setup                       |
+| Time          |                                                     |
 |---------------|-----------------------------------------------------|
+| 8.00 - 9.00   | Registration and device setup                       |
 | 9.00 - 10.00  | Keynote - Prof. Rohan Munasinghe                    |
 | 10:00 - 10:30 | Case study 1 - Robotic Technologies at VEGA project |
 | 10:30 - 11:00 | Case study 2 - Pragmatic Robotics at Zone 24x7      |
