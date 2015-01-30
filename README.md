@@ -37,7 +37,7 @@
 * 330 Ohm Resisters
 
 
-###Final Robot
+###Stage I Robot
 
 ![Alt text](botone.jpg)
 
