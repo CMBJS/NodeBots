@@ -36,12 +36,12 @@
 * 330 Ohm Resisters
 
 
-###Stage I Robot
+###Stage I : Robot
 
 ![Alt text](botone.jpg)
 
 
 ![Alt text](bottwo.jpg)
 
-
+###Stage II :  SumoBots
 
